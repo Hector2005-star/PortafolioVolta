@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Página de Turismo",
+		"description": "Página de Turismo simple, para aplicar conocimientos de HTML y CSS.",
+		"image": "/assets/images/projects/project1.webp",
+		"url": "https://github.com/Hector2005-star/Turismo-SitioWEB"
+	},
+	{
+		"name": "Portafolio Personal",
+		"description": "Portafolio Personal de Hector Menendez con Astro.js",
+		"image": "/assets/images/projects/portafolio.png",
+		"url": "https://github.com/Hector2005-star/PortafolioVolta"
+	}
+]

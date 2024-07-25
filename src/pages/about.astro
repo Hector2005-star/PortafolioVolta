@@ -1,0 +1,18 @@
+---
+import experiences from "../collections/experiences.json";
+import AboutExperience from "../components/about-experience.astro";
+import PageHeading from "../components/page-heading.astro";
+import Layout from "../layouts/main.astro";
+---
+
+<Layout title="Sobre Mi">
+  <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
+    <PageHeading
+      title="Sobre Mi"
+      description="Hola 👋, amigos, soy Héctor Menéndez, un joven ecuatoriano de Guayaquil, tranquilo y responsable con mis deberes y mi entorno. Como persona, me gusta ayudar a los demás siempre que puedo. Disfruto mucho del deporte, especialmente del atletismo, y también me encanta viajar y conocer nuevos lugares junto a mi querida familia, pues para mí, la familia lo es TODO."
+    />
+
+    <img src="/assets/images/about.jpg" class="relative z-30 w-full my-10 rounded-xl" />
+
+  </section>
+</Layout>
